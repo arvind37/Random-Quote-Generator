@@ -1,0 +1,31 @@
+.container1 {
+    border: 30px solid grey;
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+    background-color: burlywood;
+}
+
+button {
+    margin-top: 30px !important;
+}
+
+.quote {
+    padding: 80px;
+    margin-top: 0px;
+    font-weight: bolder;
+}
+
+#quote {
+    font-size: 20px;
+    font-style: normal;
+}
+
+#author {
+    float: right;
+    margin-right: 150px;
+    font-size: 18px;
+    color: gray;
+    font-weight: bold;
+    font-style: italic;
+}
